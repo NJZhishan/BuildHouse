@@ -1,0 +1,22 @@
+﻿  ExampleLibrary.cpp
+  flyFile_w.cpp
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\flyFile_w.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  flyPicture.cpp
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\flyPicture.cpp(4,10): fatal error C1083: 无法打开包括文件: “jpeglib.h”: No such file or directory
+  flyString.cpp
+  GeoMaths.cpp
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2773,7): error C2027: 使用了未定义类型“std::basic_ifstream<char,std::char_traits<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(232): message : 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2776,7): error C2027: 使用了未定义类型“std::basic_ifstream<char,std::char_traits<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(232): message : 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2780,6): error C2027: 使用了未定义类型“std::basic_ifstream<char,std::char_traits<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(232): message : 参见“std::basic_ifstream<char,std::char_traits<char>>”的声明
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2788,17): error C2039: "SaveString": 不是 "CGeoMaths" 的成员
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.h(20): message : 参见“CGeoMaths”的声明
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2791,6): error C2027: 使用了未定义类型“std::basic_ofstream<char,std::char_traits<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(233): message : 参见“std::basic_ofstream<char,std::char_traits<char>>”的声明
+D:\UE4\projects\cesium_test-wqq\FbxImport\BuildHouse\Plugins\WLJ_ProjectDLL_Test\Source\ThirdParty\WLJ_ProjectDLL_TestLibrary\include\GeoMaths.cpp(2792,6): error C2027: 使用了未定义类型“std::basic_ofstream<char,std::char_traits<char>>”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\iosfwd(233): message : 参见“std::basic_ofstream<char,std::char_traits<char>>”的声明
+  Picture.cpp
+  TestA.cpp
+  正在生成代码...

@@ -1,0 +1,12 @@
+VERSION:v1.0.0
+9
+场景名称,charcluster,无,FALSE,TRUE
+ID号,integer,无,FALSE,TRUE
+来源,charcluster,无,FALSE,TRUE
+横向网格大小,float,50,TRUE,TRUE
+纵向网格大小,float,50,TRUE,TRUE
+横向网格数,integer,10,TRUE,TRUE
+纵向网格数,integer,10,TRUE,TRUE
+主场景,boolean,真,TRUE,TRUE
+场景类型,integer,1,TRUE,TRUE
+0
